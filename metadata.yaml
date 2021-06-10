@@ -1,0 +1,37 @@
+_repo: Old-Fort-Chartres-on-the-Mississippi-River_65371
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Public Library of Fort Wayne and Allen County
+    aliases:
+    - Emerine J. Hamilton Reading Room
+    - Allen County (Ind.). Public Library of Fort Wayne and Allen County
+    - Fort Wayne (Ind.). Public Library of Fort Wayne and Allen County
+    - Ft. Wayne Public Library
+    - Fort Wayne Public Library
+    gutenberg_agent_id: '53025'
+    url: http://www.gutenberg.org/2009/agents/53025
+    wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
+  - agent_name: Faris, John T. (John Thomson)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '35849'
+    url: http://www.gutenberg.org/2009/agents/35849
+    wikipedia: https://en.wikipedia.org/wiki/John_Thomson_Faris
+description: ''
+gutenberg_issued: '2021-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Randolph County (Ill.) -- History'
+- !lcsh 'Fort de Chartres Site (Ill.) -- History'
+- !lcc 'F516'
+- !lcsh 'Illinois -- Antiquities'
+- GITenberg
+title: Old Fort Chartres on the Mississippi River
+url: http://www.gutenberg.org/ebooks/65371
