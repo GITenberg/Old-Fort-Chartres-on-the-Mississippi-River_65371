@@ -1,5 +1,8 @@
 _repo: Old-Fort-Chartres-on-the-Mississippi-River_65371
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65371-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Public Library of Fort Wayne and Allen County
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35849
     wikipedia: https://en.wikipedia.org/wiki/John_Thomson_Faris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65371#Old-Fort-Chartres-on-the-Mississippi-River
 gutenberg_issued: '2021-05-18'
 gutenberg_type: Text
 identifiers:
